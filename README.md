@@ -28,3 +28,5 @@ Server Status for Cod servers
       }
     }
 ```
+# Example frontend
+![ServerStatus](https://i.imgur.com/PBhMsRS.png)
