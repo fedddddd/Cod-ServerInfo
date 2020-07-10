@@ -11,7 +11,7 @@ Server Status for Cod servers
     */
     echo json_encode($info->out);
 ```
-*JSON Output
+* JSON Output
 ```json
   {"success":true,
   "Clients":[
