@@ -22,7 +22,7 @@ Server Status for Cod servers
    "Dvars":{
       "Map":"Rust",
       "Gametype":"Free for All",
-      "External IP":"X.X.X.X,
+      "External IP":"X.X.X.X",
       "Latency":"3 ms",
       "Maxclients":"18"
       }
