@@ -15,14 +15,14 @@ Server Status for Cod servers
 ```json
   {"success":true,
   "Clients":[
-    {"ClientSlot":"0","Score":"0","Bot":"0","Ping":"594","Name":"Lolman"}
+    {"ClientSlot":"0","Score":"0","Bot":"0","Ping":"50","Name":"player"}
    ],
    "Gamename":"IW5",
    "Hostname":"^5fed ^7| ^6GunGame^7 | ^:$help",
    "Dvars":{
       "Map":"Rust",
       "Gametype":"Free for All",
-      "External IP":"45.9.188.76",
+      "External IP":"X.X.X.X,
       "Latency":"3 ms",
       "Maxclients":"18"
       }
