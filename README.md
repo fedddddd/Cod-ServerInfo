@@ -2,7 +2,7 @@
 Server Status for Cod servers
 # Usage
 ```php
-    require_once $_SERVER['DOCUMENT_ROOT']."FILELOCATION/server-info.php";
+    require_once "FILELOCATION/server-info.php";
     $info = new Server\ServerInfo('127.0.0.1', 27016, 'password');
     /*
       DVARS -> $info->out['Dvars']
