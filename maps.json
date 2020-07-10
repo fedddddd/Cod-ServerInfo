@@ -1,0 +1,788 @@
+[
+            {
+              "Game": "IW3",
+              "Maps": [
+                {
+                  "Name": "mp_convoy",
+                  "Alias": "Ambush"
+                },
+                {
+                  "Name": "mp_backlot",
+                  "Alias": "Backlot"
+                },
+                {
+                  "Name": "mp_bloc",
+                  "Alias": "Bloc"
+                },
+                {
+                  "Name": "mp_bog",
+                  "Alias": "Bog"
+                },
+                {
+                  "Name": "mp_countdown",
+                  "Alias": "Countdown"
+                },
+                {
+                  "Name": "mp_crash",
+                  "Alias": "Crash"
+                },
+                {
+                  "Name": "mp_crossfire",
+                  "Alias": "Crossfire"
+                },
+                {
+                  "Name": "mp_citystreets",
+                  "Alias": "District"
+                },
+                {
+                  "Name": "mp_farm",
+                  "Alias": "Downpour"
+                },
+                {
+                  "Name": "mp_overgrown",
+                  "Alias": "Overgrown"
+                },
+                {
+                  "Name": "mp_pipeline",
+                  "Alias": "Pipeline"
+                },
+                {
+                  "Name": "mp_shipment",
+                  "Alias": "Shipment"
+                },
+                {
+                  "Name": "mp_showdown",
+                  "Alias": "Showdown"
+                },
+                {
+                  "Name": "mp_strike",
+                  "Alias": "Strike"
+                },
+                {
+                  "Name": "mp_vacant",
+                  "Alias": "Vacant"
+                },
+                {
+                  "Name": "mp_cargoship",
+                  "Alias": "Wet Work"
+                },
+                {
+                  "Name": "mp_crash_snow",
+                  "Alias": "Winter Crash"
+                },
+                {
+                  "Name": "mp_broadcast",
+                  "Alias": "Broadcast"
+                },
+                {
+                  "Name": "mp_creek",
+                  "Alias": "Creek"
+                },
+                {
+                  "Name": "mp_carentan",
+                  "Alias": "Chinatown"
+                },
+                {
+                  "Name": "mp_killhouse",
+                  "Alias": "Killhouse"
+                }
+              ]
+            },
+            {
+              "Game": "T4",
+              "Maps": [
+                {
+                  "Name": "mp_airfield",
+                  "Alias": "Airfield"
+                },
+                {
+                  "Name": "mp_asylum",
+                  "Alias": "Asylum"
+                },
+                {
+                  "Name": "mp_castle",
+                  "Alias": "Castle"
+                },
+                {
+                  "Name": "mp_shrine",
+                  "Alias": "Cliffside"
+                },
+                {
+                  "Name": "mp_courtyard",
+                  "Alias": "Courtyard"
+                },
+                {
+                  "Name": "mp_dome",
+                  "Alias": "Dome"
+                },
+                {
+                  "Name": "mp_downfall",
+                  "Alias": "Downfall"
+                },
+                {
+                  "Name": "mp_hangar",
+                  "Alias": "Hanger"
+                },
+                {
+                  "Name": "mp_makin",
+                  "Alias": "Makin"
+                },
+                {
+                  "Name": "mp_outskirts",
+                  "Alias": "Outskirts"
+                },
+                {
+                  "Name": "mp_roundhouse",
+                  "Alias": "Roundhouse"
+                },
+                {
+                  "Name": "mp_suburban",
+                  "Alias": "Upheaval"
+                },
+                {
+                  "Name": "mp_kneedeep",
+                  "Alias": "Knee Deep"
+                },
+                {
+                  "Name": "mp_nachtfeuer",
+                  "Alias": "Nightfire"
+                },
+                {
+                  "Name": "mp_subway",
+                  "Alias": "Station"
+                },
+                {
+                  "Name": "mp_kwai",
+                  "Alias": "Banzai"
+                },
+                {
+                  "Name": "mp_stalingrad",
+                  "Alias": "Corrosion"
+                },
+                {
+                  "Name": "mp_docks",
+                  "Alias": "Sub Pens"
+                },
+                {
+                  "Name": "mp_drum",
+                  "Alias": "Battery"
+                },
+                {
+                  "Name": "mp_bgate",
+                  "Alias": "Breach"
+                },
+                {
+                  "Name": "mp_vodka",
+                  "Alias": "Revolution"
+                }
+              ]
+            },
+            {
+              "Game": "IW4",
+              "Maps": [
+                {
+                  "Name": "mp_rust",
+                  "Alias": "Rust"
+                },
+                {
+                  "Name": "mp_terminal",
+                  "Alias": "Terminal"
+                },
+                {
+                  "Name": "mp_crash",
+                  "Alias": "Crash"
+                },
+                {
+                  "Name": "mp_afghan",
+                  "Alias": "Afghan"
+                },
+                {
+                  "Name": "mp_derail",
+                  "Alias": "Derail"
+                },
+                {
+                  "Name": "mp_estate",
+                  "Alias": "Estate"
+                },
+                {
+                  "Name": "mp_favela",
+                  "Alias": "Favela"
+                },
+                {
+                  "Name": "mp_highrise",
+                  "Alias": "Highrise"
+                },
+                {
+                  "Name": "mp_invasion",
+                  "Alias": "Invasion"
+                },
+                {
+                  "Name": "mp_checkpoint",
+                  "Alias": "Karachi"
+                },
+                {
+                  "Name": "mp_quarry",
+                  "Alias": "Quarry"
+                },
+                {
+                  "Name": "mp_rundown",
+                  "Alias": "Rundown"
+                },
+                {
+                  "Name": "mp_boneyard",
+                  "Alias": "Scrapyard"
+                },
+                {
+                  "Name": "mp_nightshift",
+                  "Alias": "Skidrow"
+                },
+                {
+                  "Name": "mp_subbase",
+                  "Alias": "Sub Base"
+                },
+                {
+                  "Name": "mp_underpass",
+                  "Alias": "Underpass"
+                },
+                {
+                  "Name": "mp_brecourt",
+                  "Alias": "Wasteland"
+                },
+                {
+                  "Name": "mp_overgrown",
+                  "Alias": "Overgrown"
+                },
+                {
+                  "Name": "mp_strike",
+                  "Alias": "Strike"
+                },
+                {
+                  "Name": "mp_vacant",
+                  "Alias": "Vacant"
+                },
+                {
+                  "Name": "mp_abandon",
+                  "Alias": "Carnival"
+                },
+                {
+                  "Name": "mp_trailerpark",
+                  "Alias": "Trailer Park"
+                },
+                {
+                  "Name": "mp_fuel2",
+                  "Alias": "Fuel"
+                },
+                {
+                  "Name": "mp_storm",
+                  "Alias": "Storm"
+                },
+                {
+                  "Name": "mp_complex",
+                  "Alias": "Bailout"
+                },
+                {
+                  "Name": "mp_compact",
+                  "Alias": "Salvage"
+                },
+                {
+                  "Name": "mp_nuked",
+                  "Alias": "Nuketown"
+                },
+                {
+                  "Name": "iw4_credits",
+                  "Alias": "Test map"
+                },
+                {
+                  "Name": "mp_killhouse",
+                  "Alias": "Killhouse"
+                },
+                {
+                  "Name": "mp_bog_sh",
+                  "Alias": "Bog"
+                },
+                {
+                  "Name": "mp_cargoship_sh",
+                  "Alias": "Freighter"
+                },
+                {
+                  "Name": "mp_cargoship",
+                  "Alias": "Cargoship"
+                },
+                {
+                  "Name": "mp_shipment",
+                  "Alias": "Shipment"
+                },
+                {
+                  "Name": "mp_shipment_long",
+                  "Alias": "Shipment - Long"
+                },
+                {
+                  "Name": "mp_rust_long",
+                  "Alias": "Rust - Long"
+                },
+                {
+                  "Name": "mp_firingrange",
+                  "Alias": "Firing Range"
+                },
+                {
+                  "Name": "mp_storm_spring",
+                  "Alias": "Chemical Plant"
+                },
+                {
+                  "Name": "mp_fav_tropical",
+                  "Alias": "Tropical Favela"
+                },
+                {
+                  "Name": "mp_estate_tropical",
+                  "Alias": "Tropical Estate"
+                },
+                {
+                  "Name": "mp_crash_tropical",
+                  "Alias": "Tropical Crash"
+                },
+                {
+                  "Name": "mp_bloc_sh",
+                  "Alias": "Forgotten City"
+                },
+                {
+                  "Name": "mp_cross_fire",
+                  "Alias": "Crossfire"
+                },
+                {
+                  "Name": "mp_bloc",
+                  "Alias": "Bloc"
+                },
+                {
+                  "Name": "oilrig",
+                  "Alias": "Oilrig"
+                },
+                {
+                  "Name": "Village",
+                  "Alias": "co_hunted"
+                }
+              ]
+            },
+            {
+              "Game": "T5",
+              "Maps": [
+                {
+                  "Name": "mp_array",
+                  "Alias": "Array"
+                },
+                {
+                  "Name": "mp_berlinwall2",
+                  "Alias": "Berlin Wall"
+                },
+                {
+                  "Name": "mp_gridlock",
+                  "Alias": "Convoy"
+                },
+                {
+                  "Name": "mp_cracked",
+                  "Alias": "Cracked"
+                },
+                {
+                  "Name": "mp_crisis",
+                  "Alias": "Crisis"
+                },
+                {
+                  "Name": "mp_discovery",
+                  "Alias": "Discovery"
+                },
+                {
+                  "Name": "mp_drivein",
+                  "Alias": "Drive-In"
+                },
+                {
+                  "Name": "mp_firingrange",
+                  "Alias": "Firing Range"
+                },
+                {
+                  "Name": "mp_duga",
+                  "Alias": "Grid"
+                },
+                {
+                  "Name": "mp_area51",
+                  "Alias": "Hangar 18"
+                },
+                {
+                  "Name": "mp_hanoi",
+                  "Alias": "Hanoi"
+                },
+                {
+                  "Name": "mp_cairo",
+                  "Alias": "Havana"
+                },
+                {
+                  "Name": "mp_golfcourse",
+                  "Alias": "Hazard"
+                },
+                {
+                  "Name": "mp_hotel",
+                  "Alias": "Hotel"
+                },
+                {
+                  "Name": "mp_havoc",
+                  "Alias": "Jungle"
+                },
+                {
+                  "Name": "mp_kowloon",
+                  "Alias": "Kowloon"
+                },
+                {
+                  "Name": "mp_cosmodrome",
+                  "Alias": "Launch"
+                },
+                {
+                  "Name": "mp_nuked",
+                  "Alias": "Nuketown"
+                },
+                {
+                  "Name": "mp_radiation",
+                  "Alias": "Radiation"
+                },
+                {
+                  "Name": "mp_silo",
+                  "Alias": "Silo"
+                },
+                {
+                  "Name": "mp_stadium",
+                  "Alias": "Stadium"
+                },
+                {
+                  "Name": "mp_outskirts",
+                  "Alias": "Stockpile"
+                },
+                {
+                  "Name": "mp_mountain",
+                  "Alias": "Summit"
+                },
+                {
+                  "Name": "mp_villa",
+                  "Alias": "Villa"
+                },
+                {
+                  "Name": "mp_russianbase",
+                  "Alias": "WMD"
+                },
+                {
+                  "Name": "mp_zoo",
+                  "Alias": "Zoo"
+                }
+              ]
+            },
+            {
+              "Game": "IW5",
+              "Maps": [
+                {
+                  "Name": "mp_seatown",
+                  "Alias": "Seatown"
+                },
+                {
+                  "Name": "mp_rust",
+                  "Alias": "Rust"
+                },
+                {
+                  "Name": "mp_test",
+                  "Alias": "Testmap"
+                },
+                {
+                  "Name": "mp_alpha",
+                  "Alias": "Lockdown"
+                },
+                {
+                  "Name": "mp_bravo",
+                  "Alias": "Mission"
+                },
+                {
+                  "Name": "mp_carbon",
+                  "Alias": "Carbon"
+                },
+                {
+                  "Name": "mp_dome",
+                  "Alias": "Dome"
+                },
+                {
+                  "Name": "mp_plaza2",
+                  "Alias": "Arkaden"
+                },
+                {
+                  "Name": "mp_exchange",
+                  "Alias": "Downturn"
+                },
+                {
+                  "Name": "mp_bootleg",
+                  "Alias": "Bootleg"
+                },
+                {
+                  "Name": "mp_hardhat",
+                  "Alias": "Hardhat"
+                },
+                {
+                  "Name": "mp_interchange",
+                  "Alias": "Interchange"
+                },
+                {
+                  "Name": "mp_lambeth",
+                  "Alias": "Fallen"
+                },
+                {
+                  "Name": "mp_radar",
+                  "Alias": "Outpost"
+                },
+                {
+                  "Name": "mp_mogadishu",
+                  "Alias": "Bakaara"
+                },
+                {
+                  "Name": "mp_paris",
+                  "Alias": "Resistance"
+                },
+                {
+                  "Name": "mp_underground",
+                  "Alias": "Underground"
+                },
+                {
+                  "Name": "mp_village",
+                  "Alias": "Village"
+                },
+                {
+                  "Name": "mp_aground_ss",
+                  "Alias": "Aground"
+                },
+                {
+                  "Name": "mp_boardwalk",
+                  "Alias": "Boardwalk"
+                },
+                {
+                  "Name": "mp_burn_ss",
+                  "Alias": "U-turn"
+                },
+                {
+                  "Name": "mp_cement",
+                  "Alias": "Foundation"
+                },
+                {
+                  "Name": "mp_courtyard_ss",
+                  "Alias": "Erosion"
+                },
+                {
+                  "Name": "mp_crosswalk_ss",
+                  "Alias": "Intersection"
+                },
+                {
+                  "Name": "mp_hillside_ss",
+                  "Alias": "Getaway"
+                },
+                {
+                  "Name": "mp_italy",
+                  "Alias": "Piazza"
+                },
+                {
+                  "Name": "mp_meteora",
+                  "Alias": "Sanctuary"
+                },
+                {
+                  "Name": "mp_moab",
+                  "Alias": "Gulch"
+                },
+                {
+                  "Name": "mp_morningwood",
+                  "Alias": "Black Box"
+                },
+                {
+                  "Name": "mp_nola",
+                  "Alias": "Parish"
+                },
+                {
+                  "Name": "mp_overwatch",
+                  "Alias": "Overwatch"
+                },
+                {
+                  "Name": "mp_park",
+                  "Alias": "Liberation"
+                },
+                {
+                  "Name": "mp_qadeem",
+                  "Alias": "Oasis"
+                },
+                {
+                  "Name": "mp_restrepo_ss",
+                  "Alias": "Lookout"
+                },
+                {
+                  "Name": "mp_roughneck",
+                  "Alias": "Off Shore"
+                },
+                {
+                  "Name": "mp_shipbreaker",
+                  "Alias": "Decommission"
+                },
+                {
+                  "Name": "mp_six_ss",
+                  "Alias": "Vortex"
+                },
+                {
+                  "Name": "mp_terminal_cls",
+                  "Alias": "Terminal"
+                }
+              ]
+            },
+            {
+              "Game": "T6",
+              "Maps": [
+                {
+                  "Name": "mp_la",
+                  "Alias": "Aftermath"
+                },
+                {
+                  "Name": "mp_dockside",
+                  "Alias": "Cargo"
+                },
+                {
+                  "Name": "mp_carrier",
+                  "Alias": "Carrier"
+                },
+                {
+                  "Name": "mp_drone",
+                  "Alias": "Drone"
+                },
+                {
+                  "Name": "mp_express",
+                  "Alias": "Express"
+                },
+                {
+                  "Name": "mp_hijacked",
+                  "Alias": "Hijacked"
+                },
+                {
+                  "Name": "mp_meltdown",
+                  "Alias": "Meltdown"
+                },
+                {
+                  "Name": "mp_overflow",
+                  "Alias": "Overflow"
+                },
+                {
+                  "Name": "mp_nightclub",
+                  "Alias": "Plaza"
+                },
+                {
+                  "Name": "mp_raid",
+                  "Alias": "Raid"
+                },
+                {
+                  "Name": "mp_slums",
+                  "Alias": "Slums"
+                },
+                {
+                  "Name": "mp_village",
+                  "Alias": "Standoff"
+                },
+                {
+                  "Name": "mp_turbine",
+                  "Alias": "Turbine"
+                },
+                {
+                  "Name": "mp_socotra",
+                  "Alias": "Yemen"
+                },
+                {
+                  "Name": "mp_nuketown_2020",
+                  "Alias": "Nuketown 2025"
+                },
+                {
+                  "Name": "mp_downhill",
+                  "Alias": "Downhill"
+                },
+                {
+                  "Name": "mp_mirage",
+                  "Alias": "Mirage"
+                },
+                {
+                  "Name": "mp_hydro",
+                  "Alias": "Hydro"
+                },
+                {
+                  "Name": "mp_skate",
+                  "Alias": "Grind"
+                },
+                {
+                  "Name": "mp_concert",
+                  "Alias": "Encore"
+                },
+                {
+                  "Name": "mp_magma",
+                  "Alias": "Magma"
+                },
+                {
+                  "Name": "mp_vertigo",
+                  "Alias": "Vertigo"
+                },
+                {
+                  "Name": "mp_studio",
+                  "Alias": "Studio"
+                },
+                {
+                  "Name": "mp_uplink",
+                  "Alias": "Uplink"
+                },
+                {
+                  "Name": "mp_bridge",
+                  "Alias": "Detour"
+                },
+                {
+                  "Name": "mp_castaway",
+                  "Alias": "Cove"
+                },
+                {
+                  "Name": "mp_paintball",
+                  "Alias": "Rush"
+                },
+                {
+                  "Name": "mp_dig",
+                  "Alias": "Dig"
+                },
+                {
+                  "Name": "mp_frostbite",
+                  "Alias": "Frost"
+                },
+                {
+                  "Name": "mp_pod",
+                  "Alias": "Pod"
+                },
+                {
+                  "Name": "mp_takeoff",
+                  "Alias": "Takeoff"
+                },
+                {
+                  "Name": "zm_buried",
+                  "Alias": "Buried/Resolution 1295"
+                },
+                {
+                  "Name": "zm_highrise",
+                  "Alias": "Die Rise/Great Leap Forward"
+                },
+                {
+                  "Name": "zm_nuked",
+                  "Alias": "Nuketown"
+                },
+                {
+                  "Name": "zm_prison",
+                  "Alias": "Mob of the Dead"
+                },
+                {
+                  "Name": "zm_tomb",
+                  "Alias": "Origins"
+                },
+                {
+                  "Name": "zm_transit_dr",
+                  "Alias": "Diner"
+                },
+                {
+                  "Name": "zm_transit",
+                  "Alias": "Green Run/Bus Depot/Farm/Town"
+                }
+              ]
+            }
+          ]
