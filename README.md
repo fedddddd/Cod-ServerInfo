@@ -29,4 +29,4 @@ Server Status for Cod servers
     }
 ```
 # Example frontend
-![ServerStatus](https://i.imgur.com/DbO18Di.png)
+![ServerStatus](https://i.imgur.com/T7VAYyd.png)
