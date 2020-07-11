@@ -75,6 +75,7 @@ namespace Server {
             $externalContent = file_get_contents('http://checkip.dyndns.com/');
             preg_match('/Current IP Address: \[?([:.0-9a-fA-F]+)\]?/', $externalContent, $m);
             return $m[1];
+            // Or hardcode the ip since this might cause the request to take longer
         }
         private function parseDVAR($dvar) {
             preg_match('/"([^"]+)"/', $dvar, $m);
